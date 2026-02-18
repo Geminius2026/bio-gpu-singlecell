@@ -48,3 +48,7 @@ pip install -r requirements.txt
 
 # Run the profiling script
 python profiling_script.py
+
+Biomedical PhD | AI & GPU Computing
+🔬 Researching the intersection of high-throughput genomics and NVIDIA-accelerated Deep Learning.
+💻 Building tools to scale single-cell analysis using PyTorch and CUDA.
