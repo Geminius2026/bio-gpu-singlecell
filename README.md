@@ -26,15 +26,6 @@ By utilizing **PyTorch** and **NVIDIA CUDA kernels**, this pipeline automates th
 
 ---
 
-## 🛠️ Installation & Usage
-### Prerequisites
-Ensure you have an NVIDIA GPU with [CUDA](https://developer.nvidia.com/cuda-downloads) installed for maximum performance.
-
-```bash
-# Clone the repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
-
 # Install dependencies
 pip install torch numpy matplotlib scikit-learn
 
