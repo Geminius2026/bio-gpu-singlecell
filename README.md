@@ -38,13 +38,13 @@ cd YOUR_REPO_NAME
 # Install dependencies
 pip install torch numpy matplotlib scikit-learn
 
-## 🛠️ Installation
-To set up the environment and run this profiling suite, follow these steps:
+## 🛠️ Installation & Usage
+To run this profiling suite, clone the repository and install the dependencies:
 
 ```bash
-# 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+# Clone the repository
+git clone [https://github.com/geminius2026/sinlge_cell_gpu.git](https://github.com/geminius2026/single_cell_gpu.git)
+cd single_cell_gpu
 
-# 2. Install all required libraries from the requirements file
+# Install all required libraries
 pip install -r requirements.txt
