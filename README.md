@@ -43,8 +43,11 @@ To run this profiling suite, clone the repository and install the dependencies:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/geminius2026/sinlge_cell_gpu.git](https://github.com/geminius2026/single_cell_gpu.git)
+git clone [https://github.com/geminius2026/single_cell_gpu.git](https://github.com/geminius2026/single_cell_gpu.git)
 cd single_cell_gpu
 
 # Install all required libraries
 pip install -r requirements.txt
+
+# Run the profiling script
+python profiling_script.py
