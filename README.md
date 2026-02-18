@@ -32,6 +32,12 @@ pip install torch numpy matplotlib scikit-learn
 ## 🛠️ Installation & Usage
 To run this profiling suite, clone the repository and install the dependencies:
 
+## 🔧 Hardware Utilization
+This project is optimized for **NVIDIA CUDA**-enabled devices. 
+
+- **Memory Management:** Efficient tensor allocation on VRAM to minimize latency in scRNA-seq matrix operations.
+- **Profiling Focus:** Benchmarking the compute-to-memory ratio for high-dimensional biological datasets.
+
 ```bash
 # Clone the repository
 git clone [https://github.com/geminius2026/single_cell_gpu.git](https://github.com/geminius2026/single_cell_gpu.git)
