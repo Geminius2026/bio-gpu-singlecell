@@ -1,0 +1,12 @@
+# Core AI and Tensor Operations
+torch>=2.0.0
+
+# Data Science & Numerical Analysis
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: High-performance data handling (Great for scRNA-seq)
+pandas>=2.0.0
