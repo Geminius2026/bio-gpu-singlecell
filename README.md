@@ -52,3 +52,5 @@ python profiling_script.py
 Biomedical PhD | AI & GPU Computing
 🔬 Researching the intersection of high-throughput genomics and NVIDIA-accelerated Deep Learning.
 💻 Building tools to scale single-cell analysis using PyTorch and CUDA.
+💻 Standard Scanpy: One worker trying to find 50,000 cells on a map.
+💻 NVIDIA RAPIDS: 50,000 workers each placing their own cell on the map at the same time.
